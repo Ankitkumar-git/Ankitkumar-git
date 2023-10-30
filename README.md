@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif")
+(img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/607211513/e106a1ce-1af9-41c8-8f4d-31db1976c599")
 
 <p align="left"> <a href="https://twitter.com/ank07it" target="blank"><img src="https://img.shields.io/twitter/follow/ank07it?logo=twitter&style=for-the-badge" alt="ank07it" /></a> </p>
 
