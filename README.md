@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://repository-images.githubusercontent.com/607211513/e106a1ce-1af9-41c8-8f4d-31db1976c599")
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
